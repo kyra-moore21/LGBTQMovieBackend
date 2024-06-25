@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\LGBTQ Cinemedia Back End.props" />
+</Project>

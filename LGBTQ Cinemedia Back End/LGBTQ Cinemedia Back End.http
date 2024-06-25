@@ -1,0 +1,6 @@
+@LGBTQ_Cinemedia_Back_End_HostAddress = http://localhost:5048
+
+GET {{LGBTQ_Cinemedia_Back_End_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
